@@ -16,7 +16,7 @@ A Java Swing desktop application built for managing employees, departments and p
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![maindash](screenshots/dashboard.png)
 ![Employee](screenshots/employees.png)
 ![Employee2](screenshots/employees.png)
 ![Payroll](screenshots/payroll.png)
